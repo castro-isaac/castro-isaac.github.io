@@ -1,14 +1,14 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
+type: "Discussion section"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Delaware"
+date: 2024-01-01
+location: "Newark, Delaware"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Led discussion section on Caluclus II. Practiced techniques such as active learning and lecturing.
 
 Heading 1
 ======
